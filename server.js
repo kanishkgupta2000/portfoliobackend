@@ -14,11 +14,11 @@ app.use(express.json({ extended: false }));
 // app.use(cors());
 
 app.use("/api", require("./routes/contactUs"));
-app.use(function(req,res,next){
-	res.locals.error=req.flash("error");
-	res.locals.success=req.flash("success");
-	next();
-});
+// app.use(function(req,res,next){
+// 	res.locals.error=req.flash("error");
+// 	res.locals.success=req.flash("success");
+// 	next();
+// });
 
 if(process.env.NODE_ENV==='production'){
 	//set static folder
