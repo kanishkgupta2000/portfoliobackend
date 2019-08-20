@@ -88,7 +88,7 @@ const Contact = () => {
 <span className="icon-globe"></span>
 </div>
 <h3 className="mb-4">Website</h3>
-<p><a href="#">yoursite.com</a></p>
+<p><a href=" https://kanishk-gupta.herokuapp.com/">Kanishk Gupta</a></p>
 </div>
 </div>
 </div>
