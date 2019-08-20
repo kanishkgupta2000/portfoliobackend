@@ -34,7 +34,7 @@ const Footer = () => {
 <li><a href="/home" className="py-2 d-block">Home</a></li>
 <li><a href="/about" className="py-2 d-block">About</a></li>
 {/* <li><a href="/work" className="py-2 d-block">Work</a></li> */}
-<li><a href="/contact" className="py-2 d-block">Contact</a></li>
+<li><a href="/contact" className="py-2 d-block">Contact</a></li> 
 </ul>
 </div>
 </div>
@@ -43,7 +43,7 @@ const Footer = () => {
 <h2 className="ftco-heading-2">Have  Questions?</h2>
 <div className="block-23 mb-3">
 <ul>
-<li><span className="icon icon-map-marker"></span><span className="text">J-7/137,<br/>
+<li><span className="icon icon-map-marker"></span><span className="text">
 Rajouri Garden,<br/>
 New Delhi-110027,India</span></li>
 <li><a href="#"><span className="icon icon-phone"></span><span className="text">+91 9818533500</span></a></li>

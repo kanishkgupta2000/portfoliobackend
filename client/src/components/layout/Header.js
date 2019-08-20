@@ -13,7 +13,7 @@ const Header = () => {
 <ul className="navbar-nav ml-auto">
 <li className="nav-item"><a href="/about" className="nav-link">About</a></li>
 {/* <li className="nav-item"><a href="/work" className="nav-link">Work</a></li> */}
-<li className="nav-item"><a href="/contact" className="nav-link">Contact</a></li>
+ <li className="nav-item"><a href="/contact" className="nav-link">Contact</a></li>
 </ul>
 </div>
 </div>

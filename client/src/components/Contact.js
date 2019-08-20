@@ -61,7 +61,7 @@ const Contact = () => {
 <span className="icon-map-signs"></span>
 </div>
 <h3 className="mb-4">Address</h3>
-<p>J-7/137<br/>Rajouri Garden,<br/>New Delhi-110027,<br/>India</p>
+<p>Rajouri Garden,<br/>New Delhi-110027,<br/>India</p>
 </div>
 </div>
 <div className="col-md-3 d-flex">

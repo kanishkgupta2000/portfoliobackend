@@ -4,7 +4,7 @@ import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
 import Index from './components/Index';
 import About from './components/About';
-// import Contact from './components/Contact';
+import Contact from './components/Contact';
 // import Work from './components/Work';
 const App = () => {
   return (
@@ -15,7 +15,7 @@ const App = () => {
 		<Route exact path='/' component={Index}/>
 		<Route exact path='/home' component={Index}/>
 		<Route exact path='/about' component={About}/>
-		{/* <Route exact path='/contact' component={Contact}/> */}
+		<Route exact path='/contact' component={Contact}/>
 		<Route exact path='*' component={Index}/>
 
     {/* <Route exact path='/work' component={Work}/> */}
