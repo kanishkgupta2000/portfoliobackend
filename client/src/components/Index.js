@@ -99,7 +99,7 @@ const Index = () => {
 <div className="row no-gutters">
 <div className="col-md-12 portfolio-wrap">
 <div className="row no-gutters align-items-center">
-<div className="col-md-5 " style={{width:"200px",backgroundImage: "url(images/yelp.png)",height:"300px"}}>
+<div className="col-md-5 col-xs-12" style={{backgroundImage: "url(images/yelp.png)",height:"300px"}}>
 </div>
 <div className="col-md-7">
 <div className="text pt-5 pl-0 pl-lg-5 pl-md-4 ftco-animate">
@@ -125,13 +125,13 @@ const Index = () => {
 </div>
 <div className="container-fluid px-0 portfolio-entry">
 <div className="row no-gutters d-xl-flex justify-content-end text-wrapper">
-<div className="one-half " style={{backgroundImage: "url('images/phone.png')",height:"280px",width:"600px",marginRight:"100px"}}></div>
+<div className="one-half col-xs-12" style={{backgroundImage: "url('images/phone.png')",height:"280px",width:"600px",marginRight:"50px"}}></div>
 <div className="one-half half-text d-flex justify-content-end align-items-center ftco-animate">
 <div className="text align-items-center d-flex">
 <div className="desc pt-5 pl-4 pr-4 pt-lg-0 pl-lg-5 pl-xl-0 pr-xl-0">
 <div className="top">
 {/* <span className="subheading">Writing {12/06/2019}</span> */}
-<h2 className="mb-4"><a href="https://quiet-peak-65636.herokuapp.com/">MyPhoneBook</a></h2>
+<h2 className="mb-4"><a href="https://quiet-peak-65636.herokuapp.com/">My<br/>PhoneBook</a></h2>
 </div>
 <div className="absolute">
 <p>MERN stack application with user personalized phonebook directory with CRUD functionality. User Authentication
@@ -146,7 +146,7 @@ const Index = () => {
 </div>
 <div className="container-fluid px-0 portfolio-entry">
 <div className="row no-gutters d-md-flex justify-content-start text-wrapper">
-<div className="one-half " style={{backgroundImage: "url('images/my-work3.png')",marginLeft:"200px",height:"240px",width:"400px"}}></div>
+<div className="one-half col-xs-12" style={{backgroundImage: "url('images/my-work3.png')",marginLeft:"5px",height:"240px",width:"400px"}}></div>
 <div className="one-half half-text d-flex justify-content-end align-items-center ftco-animate">
 <div className="text-2 align-items-start d-flex">
 <div className="desc pt-5 pr-4 pl-4 pt-lg-0 pr-lg-5 pr-xl-0 pl-xl-0">
@@ -167,7 +167,7 @@ const Index = () => {
 <div className="row no-gutters">
 <div className="col-md-12 portfolio-wrap">
 <div className="row no-gutters align-items-center">
-<div className="col-md-5 order-md-last " style={{backgroundImage: "url(images/video.jpg)",height:"280px"}}>
+<div className="col-md-5 col-xs-12 order-md-last " style={{backgroundImage: "url(images/video.jpg)",height:"280px"}}>
 </div>
 <div className="col-md-7">
 <div className="text pt-5 pr-md-5 ftco-animate">
