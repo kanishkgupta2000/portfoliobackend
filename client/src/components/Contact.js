@@ -28,7 +28,7 @@ const Contact = () => {
           }
         };
     
-        const res = await axios.post("http://localhost:5001/api/contact_us", contactUs, config);
+        const res = await axios.post("/api/contact_us", contactUs, config);
         console.log(res);
         setContactUs({
           name: "",

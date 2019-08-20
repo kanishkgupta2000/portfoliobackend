@@ -32,8 +32,13 @@ const About = () => {
 <div className="container">
 <div className="row justify-content-end">
 <div className="col-md-8">
-<h2>Web <span>Developer</span>, hobbyist, Competitive Coder, and computer science undergrad of  <span>Netaji Subhas University Of Technology</span></h2>
-<p>Involved in Web Development projects created via MERN stack,helping create multi page Web applications for budding organizations.</p>
+{/* <h2>Web <span>Developer</span>, hobbyist, Competitive Coder, and computer science undergrad of  <span>Netaji Subhas University Of Technology</span></h2> */}
+<h2>As a learning Web Developer, I am working with the <span>latest</span> technology the developer community has to offer, such as 
+  MongoDB, Express, NodeJS and <span>ReactJs</span>
+</h2>
+<p>Apart from my fascination of making multi page web applications,I am also an avid debater and have participated actively 
+  in Model United Nations held internationally, I also have a knack for banking and the stock market.
+</p>
 </div>
 </div>
 </div>
